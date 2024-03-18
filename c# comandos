@@ -1,0 +1,1 @@
+dotnet new web -n prueba1  crea nuevo proyecto en c#
