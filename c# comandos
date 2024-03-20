@@ -1,1 +1,7 @@
 dotnet new web -n prueba1  crea nuevo proyecto en c#
+
+
+//string.Any(char.IsLower) si cuenta con micusculas
+//string.Any(char.IsUpper) si contiene Mayuscula
+//string.Any(char.IsDigit) si contiene numeros 
+//string.Any(c => !char.IsLetterOrDigit(c)) si tiene caracteres especiales
